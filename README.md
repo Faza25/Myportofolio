@@ -1,12 +1,25 @@
-# React + Vite
+# 📦 MyPortofolio
+Web Portofolio Pribadi ini adalah sebuah website yang saya buat untuk menampilkan informasi tentang diri saya, keahlian, dan proyek-proyek yang pernah saya kerjakan. Website ini dibangun dengan tampilan modern, responsif, dan mudah diakses di berbagai perangkat.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+## 🚀 Fitur Utama
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-👤 Halaman "Tentang Saya" yang menjelaskan latar belakang dan minat
 
-## Expanding the ESLint configuration
+-🛠️ Daftar keahlian dan teknologi yang dikuasai
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-📁 Showcase proyek-proyek pilihan lengkap dengan deskripsi dan link GitHub
+
+-✉️ Formulir kontak langsung via email
+
+-📱 Tampilan responsif (mobile-friendly)
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+### Frontend
+-React.js + Vite
+
+---
